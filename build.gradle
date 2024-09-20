@@ -14,7 +14,7 @@ repositories {
 archivesBaseName = 'gradle-example'
 
 dependencies {
-    implementation 'org.codehaus.groovy:groovy:3.+dsfsfdsf'
+    implementation 'org.codehaus.groovy:groovy:3.+'
 
     // Groovy module dependency
     implementation 'org.codehaus.groovy:groovy-json:3.+'
